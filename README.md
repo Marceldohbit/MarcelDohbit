@@ -1,16 +1,25 @@
-# About me
+# 👋 Hi, I'm Banyin Marcel Dohbit!  
 
-<!--
-**Marceldohbit/MarcelDohbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Enthusiast | Full-Stack Developer | Problem Solver**  
+💻 Passionate about AI, automation, and scalable web solutions  
+🛠️ Skilled in **React.js, JavaScript, TypeScript, PHP/MySQL, Redux, and API Integration**  
 
-Here are some ideas to get you started:
+## 🔥 About Me  
+- 🎓 **Computer Scientist**  
+- 💡 Experienced in **Web Development, Software Engineering, and Problem-Solving**  
+- 🌱 Constantly learning **AI, Web Performance Optimization, and Network Security**  
+- 👨‍💻 Former **React Tutor** at **INFINITY SERVICES**  
+- ⚡ Love building **efficient, scalable, and user-friendly applications**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- **Frontend:** React.js, JSX, Redux, Context API, HTML5, CSS3  
+- **Backend:** PHP, MySQL, API Integration  
+- **Other:** Debugging, Testing, Git, Database Management, Deployment, Network Security  
+
+## 📫 Let's Connect  
+📩 **Email:** [marceldohbit@gmail.com](mailto:marceldohbit@gmail.com)  
+📱 **Phone:** (+237) 682570839  
+💼 **LinkedIn:** [Your LinkedIn Profile](#)  
+🌐 **Portfolio:** [Your Portfolio Link](#)  
+
+### 🚀 Always ready for exciting challenges!  
