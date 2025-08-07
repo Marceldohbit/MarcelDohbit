@@ -1,25 +1,31 @@
-# 👋 Hi, I'm Banyin Marcel Dohbit!  
+# Banyin Marcel Dohbit
 
-🚀 **AI Enthusiast | Full-Stack Developer | Problem Solver**  
-💻 Passionate about AI, automation, and scalable web solutions  
-🛠️ Skilled in **React.js, JavaScript, TypeScript, PHP/MySQL, Redux, and API Integration**  
+**Full-Stack Developer | AI Enthusiast | Problem Solver**  
+Passionate about building scalable web applications and leveraging modern technologies to solve real-world problems.
 
-## 🔥 About Me  
-- 🎓 **Computer Scientist**  
-- 💡 Experienced in **Web Development, Software Engineering, and Problem-Solving**  
-- 🌱 Constantly learning **AI, Web Performance Optimization, and Network Security**  
-- 👨‍💻 Former **React Tutor** at **INFINITY SERVICES**  
-- ⚡ Love building **efficient, scalable, and user-friendly applications**  
+## About Me
 
-## 🛠️ Skills  
-- **Frontend:** React.js, JSX, Redux, Context API, HTML5, CSS3  
-- **Backend:** PHP, MySQL, API Integration  
-- **Other:** Debugging, Testing, Git, Database Management, Deployment, Network Security  
+I am a Computer Scientist with hands-on experience in web development, software engineering, and system analysis. Former React tutor at Infinity Services, I specialize in creating secure, scalable, and user-friendly applications. I enjoy working across the full stack and constantly explore advancements in AI, performance optimization, and modern development tools.
 
-## 📫 Let's Connect  
-📩 **Email:** [marceldohbit@gmail.com](mailto:marceldohbit@gmail.com)  
-📱 **Phone:** (+237) 682570839  
-💼 **LinkedIn:** [Your LinkedIn Profile](#)  
-🌐 **Portfolio:** [Your Portfolio Link](#)  
+## Technical Skills
 
-### 🚀 Always ready for exciting challenges!  
+**Frontend:**  
+React.js, JSX, Redux, Context API, HTML5, CSS3, Responsive Web Design
+
+**Backend:**  
+PHP, Laravel, MySQL, API Integration, Supabase, Node.js (basic)
+
+**Other Skills:**  
+Version Control (Git), Debugging & Testing, Deployment, Database Management, Network Security
+
+## Contact
+
+- **Email:** [marceldohbit@gmail.com](mailto:marceldohbit@gmail.com)  
+- **Phone:** (+237) 682570839  
+- **Portfolio:** [https://portfolio.techlines.tech](https://portfolio.techlines.tech)  
+- **GitHub:** [github.com/MarcelDohbit](https://github.com/MarcelDohbit)  
+- **LinkedIn:** [Your LinkedIn Profile](#)
+
+---
+
+> Open to new opportunities, collaborations, and challenging projects.
