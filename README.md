@@ -25,7 +25,8 @@ Version Control (Git), Debugging & Testing, Deployment, Database Management, Net
 - **Portfolio:** [https://portfolio.techlines.tech](https://portfolio.techlines.tech)  
 - **GitHub:** [github.com/MarcelDohbit](https://github.com/MarcelDohbit)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/banyin-marcel-823745201
-)
+
+)- **WhatsApp:** [contact](https://wa.me/+237682570839) 
 
 ---
 
