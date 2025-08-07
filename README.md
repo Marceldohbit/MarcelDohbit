@@ -24,7 +24,8 @@ Version Control (Git), Debugging & Testing, Deployment, Database Management, Net
 - **Phone:** (+237) 682570839  
 - **Portfolio:** [https://portfolio.techlines.tech](https://portfolio.techlines.tech)  
 - **GitHub:** [github.com/MarcelDohbit](https://github.com/MarcelDohbit)  
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/banyin-marcel-823745201
+)
 
 ---
 
