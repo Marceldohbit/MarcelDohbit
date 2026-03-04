@@ -1,12 +1,10 @@
 # Banyin Marcel Dohbit
 
-**Full-Stack Developer | AI Enthusiast | Problem Solver**  
+**Full-Stack Software Engineer | Cloud & Infrastructure | Network automation **  
 Passionate about building scalable web applications and leveraging modern technologies to solve real-world problems.
 
 ## About Me
-
-I am a Computer Scientist with hands-on experience in web development, software engineering, and system analysis. Former React tutor at Infinity Services, I specialize in creating secure, scalable, and user-friendly applications. I enjoy working across the full stack and constantly explore advancements in AI, performance optimization, and modern development tools.
-
+Full Stack Software Engineer with strong experience in web and mobile application development, cloud infrastructure, server setup, and network automation. Currently pursuing an M.Sc. in Network Engineering and Security. Seeking remote roles in software engineering, networking, or infrastructure.
 ## Technical Skills
 
 **Frontend:**  
