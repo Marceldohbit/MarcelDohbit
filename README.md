@@ -7,10 +7,7 @@ Passionate about building scalable web applications and leveraging modern techno
 Full Stack Software Engineer with strong experience in web and mobile application development, cloud infrastructure, server setup, and network automation. Currently pursuing an M.Sc. in Network Engineering and Security. Seeking remote roles in software engineering, networking, or infrastructure.
 ## Technical Skills
 
-**Frontend:**  
-React.js, JSX, Redux, Context API, HTML5, CSS3, Responsive Web Design
-
-**Backend:**  
+Network automation, python, cloud and infastrusture, full stack development
 PHP, Laravel, MySQL, API Integration, Supabase, Node.js (basic)
 
 **Other Skills:**  
